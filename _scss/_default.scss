@@ -208,13 +208,13 @@ h1, h2 {
 
   &__screenshots-list {
     display: grid;
-    grid-template-columns: 200px 200px 200px 200px 200px 200px;
+    grid-template-columns: 200px 200px 200px 200px 200px 200px 200px 200px;
     grid-column-gap: 20px;
     padding: 30px 0;
 
     @media (max-width: 768px) {
       padding: 32px;
-      width: 800px;
+      width: 1200px;
     }
   }
 
@@ -245,7 +245,7 @@ h1, h2 {
     &--mobile {
       display: none;
     }
-    
+
     @media (max-width: 768px) {
       margin-left: 0;
       margin-bottom: 64px;
@@ -257,7 +257,7 @@ h1, h2 {
 
       &--desktop {
         display: none;
-      }      
+      }
     }
   }
 
@@ -286,7 +286,7 @@ h1, h2 {
         width: 252px * 0.5;
       }
     }
-  
+
     &__button-ios {
       img {
         width: 200px * 0.5;
