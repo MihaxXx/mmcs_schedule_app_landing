@@ -7,7 +7,7 @@ title: Приложение «Сервис БРС ЮФУ»
 email: MihAndSav@gmail.com
 description: Приложение для доступа к сервису Балльно-рейтинговой системы ЮФУ
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://mobileapplandingpage.learn.uno" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://grade-app.netlify.app/" # the base hostname & protocol for your site, e.g. http://example.com
 theme_color: '#efeeff'
 # twitter_username:
 github_username:  MihaxXx
@@ -27,7 +27,7 @@ social:
 languages: ["ru"]
 ampdir: amp
 
-github: https://github.com/MihaxXx/grade_app
+#github: https://github.com/MihaxXx/grade_app
 
 ### Google webmaster tools, Google Analytics, Doorbell and Cookie consent uncomment and put the API key
 #webmaster_verifications:
