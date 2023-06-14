@@ -9,7 +9,7 @@ description: Приложение для доступа к сервису Бал
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mobileapplandingpage.learn.uno" # the base hostname & protocol for your site, e.g. http://example.com
 theme_color: '#efeeff'
-twitter_username: sandochee
+# twitter_username:
 github_username:  MihaxXx
 author: Михаил Савельев
 logo: assets/images/large-logo.png

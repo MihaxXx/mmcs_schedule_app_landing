@@ -1,16 +1,13 @@
 app:
-  screenshots: Screenshots
-  description: Description
-  featured: Featured in
+  screenshots: Скриншоты
+  description: Описание
+#  featured: Featured in
 
 footer:
-  copyright: Made with ❤️ in Europe 🇪🇺 by <a href="https://www.sandoche.com" target="_blank">Sandoche</a>
+  copyright: Сделано с ❤️ <a href="https://vk.com/miha_xxx" target="_blank">Михаилом Савельевым</a> в <a href="https://mmcs.sfedu.ru/">ИММиКН ЮФУ</a>
   links:
-    - title: Github
-      url: https://github.com/sandoche/Mobile-app-landingpage-template
-      target: _blank
-    - title: Donate
-      url: https://paypal.me/kanbanote
+    - title: GitHub
+      url: https://github.com/MihaxXx/grade_app
       target: _blank
     - title: Privacy
       url: /privacy
