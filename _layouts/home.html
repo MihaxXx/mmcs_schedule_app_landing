@@ -10,26 +10,32 @@ layout: default
     <p class="app__description">{{ site.data.app.description }}</p>
     <div class="app__buttons app__buttons--desktop">
       {% if site.data.app.android != false %}
-      <a href="{{ site.data.app.android }}" class="app__button-play" target="_blank"><img src="/assets/images/google-play-badge.png" alt="Get on Google Play"></a>
+      <a href="{{ site.data.app.android }}" class="app__button-play" target="_blank"><img src="/assets/images/google-play-badge.png" alt="Get it on Google Play"></a>
       {% endif %}
       {% if site.data.app.iOS != false %}
-      <a href="{{ site.data.app.iOS }}" class="app__button-ios" target="_blank"><img src="/assets/images/ios.svg" alt="Get on Appstore"></a>
+      <a href="{{ site.data.app.iOS }}" class="app__button-ios" target="_blank"><img src="/assets/images/ios.svg" alt="Download on the App Store"></a>
       {% endif %}
       {% if site.data.app.web != false %}
-      <a href="{{ site.data.app.web }}" class="app__button-web" target="_blank"><img src="/assets/images/pwa-badge.png" alt="Go to website"></a>
+      <a href="{{ site.data.app.web }}" class="app__button-web" target="_blank"><img src="/assets/images/pwa-badge.png" alt="Launch as Web App"></a>
+      {% endif %}
+      {% if site.data.app.huawei != false %}
+      <a href="{{ site.data.app.huawei }}" class="app__button-huawei" target="_blank"><img src="/assets/images/appgallery-badge.png" alt="Explore it on AppGallery"></a>
       {% endif %}
     </div>
   </div>
 </header>
 <div class="app__buttons app__buttons--mobile container">
   {% if site.data.app.android != false %}
-  <a href="{{ site.data.app.android }}" class="app__button-play" target="_blank"><img src="/assets/images/google-play-badge.png" alt="Get on Google Play"></a>
+  <a href="{{ site.data.app.android }}" class="app__button-play" target="_blank"><img src="/assets/images/google-play-badge.png" alt="Get it on Google Play"></a>
   {% endif %}
   {% if site.data.app.iOS != false %}
-  <a href="{{ site.data.app.iOS }}" class="app__button-ios" target="_blank"><img src="/assets/images/ios.svg" alt="Get on Appstore"></a>
+  <a href="{{ site.data.app.iOS }}" class="app__button-ios" target="_blank"><img src="/assets/images/ios.svg" alt="Download on the App Store"></a>
   {% endif %}
   {% if site.data.app.web != false %}
-  <a href="{{ site.data.app.web }}" class="app__button-web" target="_blank"><img src="/assets/images/pwa-badge.png" alt="Go to website"></a>
+  <a href="{{ site.data.app.web }}" class="app__button-web" target="_blank"><img src="/assets/images/pwa-badge.png" alt="Launch as Web App"></a>
+  {% endif %}
+  {% if site.data.app.huawei != false %}
+  <a href="{{ site.data.app.huawei }}" class="app__button-huawei" target="_blank"><img src="/assets/images/appgallery-badge.png" alt="Explore it on AppGallery"></a>
   {% endif %}
 </div>
 <section class="app__screenshots app__section">
