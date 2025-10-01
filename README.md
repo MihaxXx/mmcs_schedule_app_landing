@@ -1,4 +1,4 @@
-<h1>Grade App Landing Page</h1>
+<h1>MMCS Schedule App Landing Page</h1>
 <p>
   Based on <a href="https://github.com/sandoche/Mobile-app-landingpage-template" target="_blank">template</a>
   <a href="/LICENSE"><img src="https://img.shields.io/github/license/mashape/apistatus.svg" alt="MIT"></a>

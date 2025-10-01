@@ -4,10 +4,10 @@ app:
 #  featured: Featured in
 
 footer:
-  copyright: Сделано с ❤️ <a href="https://vk.com/miha_xxx" target="_blank">Михаилом Савельевым</a> в <a href="https://mmcs.sfedu.ru/">ИММиКН ЮФУ</a>
+  copyright: Сделано с ❤️ <a href="https://t.me/miha_xxx" target="_blank">Михаилом Савельевым</a> в <a href="https://mmcs.sfedu.ru/">ИММиКН ЮФУ</a>
   links:
     - title: GitHub
-      url: https://github.com/MihaxXx/grade_app
+      url: https://github.com/MihaxXx/mmcs_schedule_app
       target: _blank
     - title: Privacy
-      url: /privacy
+      url: https://www.study.sfedu.ru/privacypolicy

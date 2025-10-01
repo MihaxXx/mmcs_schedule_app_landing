@@ -1,20 +1,19 @@
-name: Сервис БРС ЮФУ
-description: Приложение для доступа к сервису Балльно-рейтинговой системы ЮФУ
-full_description: 'Удобное приложение для доступа к сервису Балльно-рейтинговой системы Южного федерального 
-университета, которое позволяет студентам просматривать свои баллы и посещаемость по дисциплинам, а преподавателям 
-выставлять баллы и вести учёт посещаемости, создавая занятия и проставляя присутствие студентов на них.'
-android: https://play.google.com/store/apps/details?id=ru.mihaxxx.grade
-iOS: https://apps.apple.com/app/%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81-%D0%B1%D1%80%D1%81-%D1%8E%D1%84%D1%83/id6449784369
+name: Расписание мехмата ЮФУ
+description: 'Мехмат ЮФУ: расписание всегда в кармане'
+full_description: 'Учёба на мехмате — это непросто, а вот найти своё расписание теперь легко. Это приложение создано 
+специально для студентов и преподавателей Института математики, механики и компьютерных наук Южного федерального 
+университета. Выбирай курс и группу, если ты студент, или вводи фамилию, если преподаватель, — и актуальное расписание 
+сразу у тебя в кармане. Данные автоматически обновляются с сайта интерактивного расписания, так что ты всегда знаешь, 
+где и когда следующая пара.'
+android: https://play.google.com/store/apps/details?id=ru.mihaxxx.mmcs_schedule_app
+iOS: https://apps.apple.com/app/%D1%80%D0%B0%D1%81%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D1%8E%D1%84%D1%83/id6748354870
 web: false
-huawei: https://url.cloud.huawei.com/nR4R2ptzAk?shareTo=qrcode
+huawei: https://appgallery.huawei.com/app/C114675337
 screenshots:
-  - 1.jpeg
-  - 2.jpeg
-  - 3.jpeg
-  - 4.jpeg
-  - 5.jpeg
-  - 6.jpeg
-  - 7.jpeg
+  - 1.png
+  - 2.png
+  - 3.png
+  - 4.png
 #producthunt: https://telegra.ph/Replace-this-link-07-23
 #companies:
 #  - url: https://telegra.ph/Replace-this-link-07-23

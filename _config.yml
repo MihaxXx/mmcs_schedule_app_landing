@@ -3,11 +3,11 @@
 # This config file contains the config of your webpages
 # You may also want to update /config/webpack.pwa.js in case you want to generate a Progressive Web App
 
-title: Приложение «Сервис БРС ЮФУ»
+title: Приложение «Расписание мехмата ЮФУ»
 email: MihAndSav@gmail.com
-description: Приложение для доступа к сервису Балльно-рейтинговой системы ЮФУ
+description: 'Мехмат ЮФУ: расписание всегда в кармане'
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://grade-app.netlify.app/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://mmcs-schedule-app.netlify.app/" # the base hostname & protocol for your site, e.g. http://example.com
 theme_color: '#efeeff'
 # twitter_username:
 github_username:  MihaxXx
